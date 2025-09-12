@@ -1,4 +1,4 @@
-# 📘 README -- Bài tập Linux cơ bản
+#  README -- Bài tập Linux cơ bản
 
 ## Bài 1: Tạo cấu trúc thư mục và file
 
