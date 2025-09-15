@@ -12,7 +12,7 @@ Tạo cấu trúc sau, nội dung file copy từ `/etc/passwd`:
     |   |   `-- file2.txt
     |   `-- project
 
-👉 Lệnh thực hiện:
+ Lệnh thực hiện:
 
 ``` bash
 # Tạo cấu trúc thư mục
@@ -38,7 +38,7 @@ Yêu cầu:\
 3. Lại sao chép `lab` sang `backup`, ghi đè trực tiếp.\
 4. Xóa thư mục `lab`.
 
-👉 Lệnh thực hiện:
+ Lệnh thực hiện:
 
 ``` bash
 # Sao chép lab -> backup
@@ -66,7 +66,7 @@ Yêu cầu:\
 - Tạo file nén `backup.tar.bz2` từ thư mục `backup`.\
 - Giải nén thành thư mục `lab` với cấu trúc giống `backup`.
 
-👉 Lệnh thực hiện:
+ Lệnh thực hiện:
 
 ``` bash
 # Nén thư mục backup
@@ -96,7 +96,7 @@ ls -R / 2>/dev/null | grep '\.txt$'
 ls -R / 2>/dev/null | grep '^dat'
 ```
 
-💡 Gợi ý cách làm chính xác hơn với `find`:
+ Gợi ý cách làm chính xác hơn với `find`:
 
 ``` bash
 find / -type f -name "*.txt" 2>/dev/null
@@ -105,5 +105,4 @@ find / -type f -name "dat*" 2>/dev/null
 
 ------------------------------------------------------------------------
 
-📌 Như vậy, toàn bộ 4 bài đã được gom thành một quy trình hoàn chỉnh
-trong README.
+
