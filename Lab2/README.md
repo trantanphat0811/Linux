@@ -1,6 +1,6 @@
-## QUẢN LÝ GÓI TIN VÀ THAO TÁC ĐỌC, GHI FILE BẰNG COMMAND LINE
+### QUẢN LÝ GÓI TIN VÀ THAO TÁC ĐỌC, GHI FILE BẰNG COMMAND LINE
 
-### Bài 1
+## Bài 1
 Cập nhật gói phần mềm hiện tại. Sau đó cài đặt gói **figlet**.  
 Kiểm tra xem gói **figlet** đã được cài thành công hay không bằng cách sử dụng thử những tính năng của nó.
 Sau đó xóa **figlet** ra khỏi hệ thống.  
