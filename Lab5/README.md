@@ -1,4 +1,4 @@
-# HƯỚNG DẪN 12 BÀI TẬP PYTHON CƠ BẢN TRÊN MÁY ẢO LINUX
+# LAB5 - LẬP TRÌNH SHELL TRÊN LINUX
 
 ## Cách làm việc với máy ảo Linux và Nano
 1. Mở Terminal và di chuyển đến thư mục làm việc:
