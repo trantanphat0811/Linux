@@ -120,9 +120,8 @@ Các bài tập trên giúp bạn rèn luyện kỹ năng Python cơ bản như:
 Cấu trúc điều kiện và vòng lặp
 Làm việc với chuỗi và danh sách
 Đệ quy
-```
 Kiểm tra logic và tính toán cơ bản
 Quản lý file và thư mục
-
+```
 
 
